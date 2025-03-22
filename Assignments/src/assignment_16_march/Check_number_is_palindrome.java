@@ -1,6 +1,5 @@
 package assignment_16_march;
 
-import java.lang.reflect.Array;
 
 public class Check_number_is_palindrome {
 	
